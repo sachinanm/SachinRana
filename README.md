@@ -1,8 +1,9 @@
 
-preview
 <h1 align="center">Hi 👋, I'm Sachin Rana</h1>
 <h3 align="center">A passionate Data Science and Analyst</h3>
-<img align ="right" alt="coding" width="400" src="https://www.google.com/search?q=gif+data+science+code&rlz=1C1VDKB_enIN1042IN1042&sxsrf=AJOqlzVsGB_XBbkjqIgii7z6YELfK9MD9w:1677672465417&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi91eb62Lr9AhUt-jgGHf1FBH8Q_AUoAXoECAEQAw&biw=1920&bih=872&dpr=1#imgrc=cA1QLyyFBWMIxM">
+
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on **YouTube Analysis for ADS integration**
 
