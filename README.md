@@ -1,4 +1,4 @@
-![logo]()
+
 <h1 align="center">Hi 👋, I'm Sachin Rana</h1>
 <h3 align="center">A passionate Data Science and Analyst</h3>
 
